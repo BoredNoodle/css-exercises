@@ -1,14 +1,14 @@
-.button-1,
-.button-2 {
+.dark-mode,
+.light-mode {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.button-1 {
+.dark-mode {
     background-color: black;
     color: white;
 }
 
-.button-2 {
+.light-mode {
     background-color: yellow;
 }
